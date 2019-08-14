@@ -16,9 +16,11 @@ class one: UIViewController {
         
     }
     
-    func jasknfk() {
-        print("asjka")
-        print("agan")
+    internal func jasknfk() -> Method? {
+        print("start")
+        print("---------------")
+        print("end")
+        return nil
     }
     
     public func okOne() {
