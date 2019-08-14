@@ -1,5 +1,5 @@
 //
-//  new_1.swift
+//  iiii.swift
 //  SNTestCode
 //
 //  Created by snlo on 2019/8/14.
@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class okObjiect: NSObject {
+    
+    func test(_ type: String) {
+        print(type)
+    }
+    
+}

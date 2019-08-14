@@ -16,8 +16,8 @@
 		98499F3323039BFB00FF9C9D /* SNTestCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F3223039BFB00FF9C9D /* SNTestCodeUITests.swift */; };
 		98499F4123039C1100FF9C9D /* Xkjnnfwjenfwej.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F4023039C1100FF9C9D /* Xkjnnfwjenfwej.swift */; };
 		98499F4323039C1B00FF9C9D /* ooo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F4223039C1B00FF9C9D /* ooo.swift */; };
+		98499F452303AFD400FF9C9D /* iiii.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F442303AFD400FF9C9D /* iiii.swift */; };
 		98499F472303B64A00FF9C9D /* New.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F462303B64A00FF9C9D /* New.swift */; };
-		98499F492303B66700FF9C9D /* new_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98499F482303B66700FF9C9D /* new_1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,8 +53,8 @@
 		98499F3423039BFB00FF9C9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98499F4023039C1100FF9C9D /* Xkjnnfwjenfwej.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xkjnnfwjenfwej.swift; sourceTree = "<group>"; };
 		98499F4223039C1B00FF9C9D /* ooo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ooo.swift; sourceTree = "<group>"; };
+		98499F442303AFD400FF9C9D /* iiii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iiii.swift; sourceTree = "<group>"; };
 		98499F462303B64A00FF9C9D /* New.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New.swift; sourceTree = "<group>"; };
-		98499F482303B66700FF9C9D /* new_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new_1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,8 +109,8 @@
 				98499F1423039BF900FF9C9D /* ViewController.swift */,
 				98499F4023039C1100FF9C9D /* Xkjnnfwjenfwej.swift */,
 				98499F4223039C1B00FF9C9D /* ooo.swift */,
+				98499F442303AFD400FF9C9D /* iiii.swift */,
 				98499F462303B64A00FF9C9D /* New.swift */,
-				98499F482303B66700FF9C9D /* new_1.swift */,
 				98499F1623039BF900FF9C9D /* Main.storyboard */,
 				98499F1923039BFB00FF9C9D /* Assets.xcassets */,
 				98499F1B23039BFB00FF9C9D /* LaunchScreen.storyboard */,
@@ -269,8 +269,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				98499F1523039BF900FF9C9D /* ViewController.swift in Sources */,
+				98499F452303AFD400FF9C9D /* iiii.swift in Sources */,
 				98499F472303B64A00FF9C9D /* New.swift in Sources */,
-				98499F492303B66700FF9C9D /* new_1.swift in Sources */,
 				98499F4323039C1B00FF9C9D /* ooo.swift in Sources */,
 				98499F4123039C1100FF9C9D /* Xkjnnfwjenfwej.swift in Sources */,
 				98499F1323039BF900FF9C9D /* AppDelegate.swift in Sources */,
