@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class new: NSObject {
+    
+    internal func new() {
+        print("new")
+    }
+    
+}

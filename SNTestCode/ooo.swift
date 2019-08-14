@@ -18,7 +18,7 @@ class one: UIViewController {
     
     internal func jasknfk() -> Method? {
         print("start")
-        print("---------------")
+        
         print("end")
         return nil
     }
