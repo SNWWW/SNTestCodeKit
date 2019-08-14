@@ -16,9 +16,10 @@ class tttt: UIView {
         
     }
     
-    func xxxxxxx() {
-        print("asjsfkankf")
+    internal func xxxxxxx() {
+        print("start")
         print("---------------")
+        print("end")
     }
     
 }
