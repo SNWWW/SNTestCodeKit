@@ -18,6 +18,7 @@ class one: UIViewController {
     
     func jasknfk() {
         print("asjka")
+        print("agan")
     }
     
     public func okOne() {
