@@ -16,7 +16,7 @@ class tttt: UIView {
         
     }
     
-    internal func xxxxxxx() {
+    public func xxxxxxx() {
         print("start")
         print("---------------")
         print("end")
