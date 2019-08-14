@@ -20,4 +20,8 @@ class one: UIViewController {
         print("asjka")
     }
     
+    public func okOne() {
+        print("OK")
+    }
+    
 }
