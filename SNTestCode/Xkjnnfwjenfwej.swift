@@ -18,6 +18,7 @@ class tttt: UIView {
     
     func xxxxxxx() {
         print("asjsfkankf")
+        print("---------------")
     }
     
 }
